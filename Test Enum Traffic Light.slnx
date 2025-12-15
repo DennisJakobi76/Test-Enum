@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Projektmappenelemente/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="Test Enum Traffic Light/Test Enum Traffic Light.csproj" />
+</Solution>
